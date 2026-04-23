@@ -1,0 +1,31 @@
+.detail-container {
+  padding: 40px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.ai-box {
+  background: #f1f5f9;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.rating-box {
+  margin-top: 20px;
+}
+
+.rating-box button {
+  margin-right: 10px;
+  padding: 10px 12px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.rating-box button:hover {
+  background: #1d4ed8;
+}

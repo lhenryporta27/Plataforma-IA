@@ -1,0 +1,14 @@
+.ranking {
+  max-width: 600px;
+  margin-top: 20px;
+}
+
+.ranking-item {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  font-weight: 500;
+}
